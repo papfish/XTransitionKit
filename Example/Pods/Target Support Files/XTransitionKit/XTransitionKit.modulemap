@@ -1,0 +1,6 @@
+framework module XTransitionKit {
+  umbrella header "XTransitionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

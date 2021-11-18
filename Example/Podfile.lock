@@ -1,0 +1,16 @@
+PODS:
+  - XTransitionKit (1.0.0)
+
+DEPENDENCIES:
+  - XTransitionKit (from `../`)
+
+EXTERNAL SOURCES:
+  XTransitionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XTransitionKit: 3c8b1b054932af94d4f4d7f3d7c0b6e1e7c33fa6
+
+PODFILE CHECKSUM: 5dbad315ab45df46f72f9ab8e3c5c01b5fdc09e9
+
+COCOAPODS: 1.11.2

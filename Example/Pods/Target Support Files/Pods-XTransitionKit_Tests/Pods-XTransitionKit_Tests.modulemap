@@ -1,0 +1,6 @@
+framework module Pods_XTransitionKit_Tests {
+  umbrella header "Pods-XTransitionKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
